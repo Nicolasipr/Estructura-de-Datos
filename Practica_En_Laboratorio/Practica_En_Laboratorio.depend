@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1477786820 source:c:\users\nikox\documents\programación\estructura de datos\practica_en_laboratorio\practica_en_laboratorio.cpp
+	<iostream>
+	<cstdlib>
+	"Practica_En_Laboratorio.h"
+
+1477787988 source:c:\users\nikox\documents\programación\estructura de datos\practica_en_laboratorio\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	"Practica_En_Laboratorio.h"
+
+1477786316 c:\users\nikox\documents\programación\estructura de datos\practica_en_laboratorio\practica_en_laboratorio.h
+

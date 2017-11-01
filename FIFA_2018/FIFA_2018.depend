@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\main.cpp
+	<iostream>
+
+1482564398 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\src\diego.cpp
+	"Diego.h"
+
+1482564398 c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\include\diego.h
+	<Persona.h>
+
+1482564541 c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\include\persona.h
+	<string>
+	<Rut.h>
+	<Fecha.h>
+
+1482534743 c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\include\rut.h
+
+1482534833 c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\include\fecha.h
+
+1482534833 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\src\fecha.cpp
+	"Fecha.h"
+
+1482534946 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\src\persona.cpp
+	"Persona.h"
+
+1482534743 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\fifa_2018\src\rut.cpp
+	"Rut.h"
+

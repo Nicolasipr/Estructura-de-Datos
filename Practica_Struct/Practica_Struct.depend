@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1479863005 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\practica_struct\main.cpp
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	"Actividad_Struct.h"
+
+1479857149 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\practica_struct\actividad_struct.cpp
+
+1479857210 c:\users\nikox\onedrive\documentos\programación\estructura de datos\practica_struct\actividad_struct.h
+
+1479857149 c:\users\nikox\onedrive\documentos\programación\estructura de datos\practica_struct\actividad_struct.cpp
+

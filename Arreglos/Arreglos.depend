@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1478531818 source:c:\users\x-19887\desktop\mcvedd\arreglos\funcionarreglo.cpp
+	<iostream>
+
+1478532601 source:c:\users\x-19887\desktop\mcvedd\arreglos\main.cpp
+	<iostream>
+	"funcionArreglo.h"
+
+1478532601 c:\users\x-19887\desktop\mcvedd\arreglos\funcionarreglo.h
+

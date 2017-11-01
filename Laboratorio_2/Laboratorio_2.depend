@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479086713 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\laboratorio_2\laboratorio_2.cpp
+	<iostream>
+	"Laboratorio_2.h"
+
+1479087175 c:\users\nikox\onedrive\documentos\programación\estructura de datos\laboratorio_2\laboratorio_2.h
+
+1479353365 source:c:\users\nikox\onedrive\documentos\programación\estructura de datos\laboratorio_2\main.cpp
+	<iostream>
+	<math.h>
+
